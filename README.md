@@ -1,7 +1,7 @@
 # car-dekho 
 Access it here : [Application](https://car-dekho-eozn.onrender.com/) 
 
-Another URL: [Application](http://shaurya.dynv6.net:9006) -  (personal laptop self hosted, might not work for some networks due to firewall issue) 
+Another URL: [http://shaurya.dynv6.net:9006](http://shaurya.dynv6.net:9006) -  (personal laptop self hosted, might not work for some networks due to firewall issue, also change https to http if browser automatically adds https) 
 
 - What did you build and why? What did you deliberately cut?
 I built an AI-based car advisor that lets users just describe what they want in plain language, instead of forcing them to use filters. The system pulls out structured requirements from the query, filters cars based on those, and then reranks them using review data to find better matches.
