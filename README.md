@@ -36,6 +36,7 @@ I’d also work on the UI to make it feel less like a chatbot and more like a pr
 ### **Local Setup**
 
 #### **1. Create and activate a virtual environment**
+##### Python 3.11 recommended
 
 ```bash
 # create venv
